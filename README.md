@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/jayaprabha-palani10/">LinkedIn</a> &nbsp;•&nbsp;
-
+  <a href="https://linkedin.com/in/jayaprabha-palani10/">LinkedIn</a>
 </p>
 
 ---
