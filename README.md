@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_HANDLE">LinkedIn</a> &nbsp;•&nbsp;
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="https://linkedin.com/in/jayaprabha-palani10/">LinkedIn</a> &nbsp;•&nbsp;
+
 </p>
 
 ---
