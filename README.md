@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Jayaprabha 👋
 
-<!--
-**jayaprabhapalani/jayaprabhapalani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend + GenAI engineer focused on building agentic AI systems and production-grade backend infrastructure.
 
-Here are some ideas to get you started:
+## 🔧 What I work with
+`Python` `FastAPI` `LangChain` `LangGraph` `PostgreSQL` `Redis` `Celery` `AWS` `Docker`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+| Project | What it is |
+|---|---|
+| [StateMesh Agent Runtime](https://github.com/statemesh-123/state-mesh-agent-runtime) | Python-native agentic pipeline framework — typed state, MCP tool bus, structured output contracts, guardrails, OpenTelemetry tracing |
+| [HackerNews Search Engine](https://github.com/jayaprabhapalani/search-engine) | Hybrid TF-IDF + vector search engine with Redis caching, Celery, Trie autocomplete, deployed on AWS |
+| [Scribble Clone](https://github.com/jayaprabhapalani/scribble-clone) | Multiplayer drawing game backend — WebSockets, asyncio game loop, Redis Pub/Sub for horizontal scaling |
+| [Medical Literature Triage](https://github.com/jayaprabhapalani/Multiagentic_medical_triage) | Multi-agent pipeline (asyncio + Gemini API) for medical literature classification and triage |
+
+## 📫 Let's connect
+[LinkedIn](https://linkedin.com/in/jayaprabha-palani10/)
