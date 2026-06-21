@@ -13,11 +13,9 @@
 
 ## 🧠 About Me
 
-I'm a backend engineer building production-grade agentic AI systems and scalable APIs.
-
-- 🔨 Currently building **StateMesh** — a Python-native agentic pipeline runtime with typed state, MCP tool bus, structured output contracts, guardrails, and OpenTelemetry tracing
-- 🌱 Deep in system design, LLM-in-production patterns, and distributed backend architecture
-- 🎯 Targeting backend / AI engineer roles at product companies and well-funded startups
+- 🔨 Backend engineer who builds things that actually work in production
+- 🤖 Specializing in agentic AI systems and scalable APIs
+- ⚡ Python, FastAPI, LangChain, AWS — tools I use daily
 - 📍 Chennai, India
 
 ---
@@ -41,6 +39,10 @@ I'm a backend engineer building production-grade agentic AI systems and scalable
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+**Frontend**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
 ---
 
 ## 🚀 Featured Projects
@@ -49,7 +51,7 @@ I'm a backend engineer building production-grade agentic AI systems and scalable
 | Project | What it is |
 |---|---|
 | [StateMesh Agent Runtime](https://github.com/statemesh-123/state-mesh-agent-runtime) | Python-native agentic pipeline framework — typed state, MCP tool bus, structured output contracts, guardrails, OpenTelemetry tracing |
-| [HackerNews Search Engine](https://github.com/jayaprabhapalani/search-engine) | Hybrid TF-IDF + vector search engine with Redis caching, Celery, Trie autocomplete, deployed on AWS |
+| [HackerNews Search Engine](https://github.com/jayaprabhapalani/search-engine) | Hybrid TF-IDF + vector search engine with Redis caching, Celery, Trie autocomplete |
 | [Scribble Clone](https://github.com/jayaprabhapalani/scribble-clone) | Multiplayer drawing game backend — WebSockets, asyncio game loop, Redis Pub/Sub for horizontal scaling |
 | [Medical Literature Triage](https://github.com/jayaprabhapalani/Multiagentic_medical_triage) | Multi-agent pipeline (asyncio + Gemini API) for medical literature classification and triage |
 
@@ -63,9 +65,4 @@ I'm a backend engineer building production-grade agentic AI systems and scalable
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayaprabhapalani&show_icons=true&theme=dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaprabhapalani&layout=compact&theme=dark&hide_border=true" height="150"/>
-</p>
