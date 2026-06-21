@@ -45,40 +45,15 @@ I'm a backend engineer building production-grade agentic AI systems and scalable
 
 ## 🚀 Featured Projects
 
-### 🤖 [StateMesh Agent Runtime](https://github.com/statemesh-123/state-mesh-agent-runtime)
-Python-native agentic pipeline runtime framework.
-- Typed state management with step-level schema contracts
-- MCP-native tool bus for standardized agent-tool communication
-- Structured output contracts with JSON parsing and retry
-- Guardrails as first-class pipeline primitives (incl. PIIGuard)
-- Built-in OpenTelemetry tracing
-- **54 passing tests** | `Python` `LangChain` `OpenTelemetry` `MCP`
 
----
+| Project | What it is |
+|---|---|
+| [StateMesh Agent Runtime](https://github.com/statemesh-123/state-mesh-agent-runtime) | Python-native agentic pipeline framework — typed state, MCP tool bus, structured output contracts, guardrails, OpenTelemetry tracing |
+| [HackerNews Search Engine](https://github.com/jayaprabhapalani/search-engine) | Hybrid TF-IDF + vector search engine with Redis caching, Celery, Trie autocomplete, deployed on AWS |
+| [Scribble Clone](https://github.com/jayaprabhapalani/scribble-clone) | Multiplayer drawing game backend — WebSockets, asyncio game loop, Redis Pub/Sub for horizontal scaling |
+| [Medical Literature Triage](https://github.com/jayaprabhapalani/Multiagentic_medical_triage) | Multi-agent pipeline (asyncio + Gemini API) for medical literature classification and triage |
 
-### 🔍 [HackerNews Hybrid Search Engine](https://github.com/jayaprabhapalani/search-engine)
-Production-style search engine with hybrid retrieval.
-- TF-IDF + vector search with Redis caching and Celery workers
-- Trie-based autocomplete, rate limiting, async ingestion
-- React frontend, Dockerized, deployed on AWS
-- `Python` `FastAPI` `Redis` `Celery` `Docker` `AWS`
 
----
-
-### 🎮 [Multiplayer Drawing Game Backend](https://github.com/jayaprabhapalani/scribble-clone)
-Scribbl.io-style real-time game backend.
-- WebSocket lifecycle management with asyncio game loop
-- Redis Pub/Sub for horizontal scaling across instances
-- Hybrid state: PostgreSQL (persistence) + Redis + in-memory
-- `Python` `FastAPI` `WebSockets` `Redis` `PostgreSQL` `asyncio`
-
----
-
-### 🏥 [Medical Literature Triage Pipeline](https://github.com/jayaprabhapalani/Multiagentic_medical_triage)
-Multi-agent pipeline for medical literature classification.
-- Concurrent asyncio agents with Semaphore-based rate limiting
-- Gemini API integration with structured output parsing
-- `Python` `asyncio` `Gemini API` `Multi-agent`
 
 ---
 
